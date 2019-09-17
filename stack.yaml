@@ -1,0 +1,9 @@
+resolver: lts-12.26
+
+packages:
+- .
+extra-deps:
+- inline-c-cpp-0.3.0.1
+- tasty-discover-4.1.3
+
+
